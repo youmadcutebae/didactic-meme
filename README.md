@@ -1,3 +1,3 @@
 # didactic-meme
-just trying out lab practicals 
+ lab practicals 
 21CBT 1027 - CU 
